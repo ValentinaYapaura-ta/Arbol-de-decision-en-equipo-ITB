@@ -8,10 +8,10 @@ scikit-learn — Para el entrenamiento, división y evaluación del modelo de Ma
 math — Módulo nativo de Python para cálculos matemáticos.
 Instalación de Dependencias
 Podés instalar las dependencias ejecutando en la terminal:
+
 pip install pandas scikit-learn
-
-
 (O python -m pip install pandas scikit-learn si estás en Windows).
+
 Estructura e Implementación del Código
 El script principal (TP_Estudiantes_Grupo.py) está organizado secuencialmente en las siguientes secciones:
 Análisis Exploratorio de Datos (EDA) & Entropía Inicial H(S):
